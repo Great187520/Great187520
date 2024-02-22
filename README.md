@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=great187520" alt="great187520" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@Eleke_SeniorDev" target="blank"><img src="https://img.shields.io/twitter/follow/@Eleke_SeniorDev?logo=twitter&style=for-the-badge" alt="@Eleke_SeniorDev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Eleke_SeniorDev" target="blank"><img src="https://img.shields.io/twitter/follow/Eleke_SeniorDev?logo=twitter&style=for-the-badge" alt="@Eleke_SeniorDev" /></a> </p>
 
 - 🔭 I’m currently working on Django RestFramework **Multi Vendor E_Commerce Api**
 
