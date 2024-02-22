@@ -1,17 +1,17 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*nAjn5rveF7FmaYW2.jpg)](https://Great187520.io)
 <h1 align="center">Hi 👋, I'm Eleke Great</h1>
-<h3 align="center">Senior Python/React Developer at SkillSeeds</h3>
+<h3 align="center">Senior Software Developer at SkillSeeds</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76116822a67a247263c360dde21324e123c6a029b701&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=great187520&label=Profile%20views&color=0e75b6&style=flat" alt="great187520" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=great187520" alt="great187520" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@emilyda_btc" target="blank"><img src="https://img.shields.io/twitter/follow/@emilyda_btc?logo=twitter&style=for-the-badge" alt="@emilyda_btc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Eleke_SeniorDev" target="blank"><img src="https://img.shields.io/twitter/follow/@Eleke_SeniorDev?logo=twitter&style=for-the-badge" alt="@Eleke_SeniorDev" /></a> </p>
 
-- 🔭 I’m currently working on Solana Smart Contract **FaceBook Clone**
+- 🔭 I’m currently working on Django RestFramework **Multi Vendor E_Commerce Api**
 
-- 🌱 I’m currently learning **React Native and Advance Solidity**
+- 🌱 I’m currently learning **System Design and Architecture**
 
 - 👯 I’m looking to collaborate on React, Python and Solidity based projects **Fintech, Ecommerce and NFT's project**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@emilyda_btc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@emilyda_btc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eleke great" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eleke great" height="30" width="40" /></a>
+<a href="https://twitter.com/@emilyda_btc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Eleke_SeniorDev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/python-developer-eleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eleke great" height="30" width="40" /></a>
 <a href="https://fb.com/eleke great" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eleke great" height="30" width="40" /></a>
 </p>
 
